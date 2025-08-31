@@ -1,21 +1,17 @@
 
 # German Smart Home Website
 
-## Local Development
-```bash
-npm install
-npm run dev
-```
-Open [http://localhost:5173](http://localhost:5173).
+This project was bootstrapped with Vite + React + TailwindCSS.
 
-## Build
-```bash
-npm run build
-npm run preview
-```
+## Available Scripts
 
-## Deploy on Vercel
-- Import this repo to Vercel
-- Framework: Vite
-- Build Command: npm run build
-- Output Directory: dist
+### `npm install`
+Install dependencies.
+
+### `npm run dev`
+Runs the app in development mode.
+
+### `npm run build`
+Builds the app for production to the `dist` folder.
+
+Then you can deploy it on Vercel, Netlify, or GitHub Pages.
